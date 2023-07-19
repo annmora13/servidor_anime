@@ -1,0 +1,22 @@
+{
+  "name": "evaluacion_6.2",
+  "version": "1.0.0",
+  "description": "anime_CRUD",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Anakarina Mora Faneite",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "chai-http": "^4.4.0",
+    "mocha": "^10.2.0",
+    "node.js": "^0.0.1-security",
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  }
+}
